@@ -1,6 +1,6 @@
 {
   "name": "typed-state-machine",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0",
   "description": "A type-safe state machine library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
