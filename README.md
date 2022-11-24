@@ -247,3 +247,7 @@ example) to unsubscribe the listener:
 ```ts
 unsubscribe();
 ```
+
+## License
+
+MIT
