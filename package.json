@@ -29,5 +29,14 @@
     "dist",
     "README.md",
     "LICENSE"
+  ],
+  "keywords": [
+    "state machine",
+    "finite state machine",
+    "tinder state mchine",
+    "state automata",
+    "finite state automata",
+    "typescript state machine",
+    "strict state machine"
   ]
 }
